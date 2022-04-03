@@ -19,7 +19,7 @@ if (window.top !== window.self) {
         (function () {
             const i = document.createElement("img");
             i.src = "https://raw.githubusercontent.com/Ender0112/Transgender-Flag-Template/main/place.png";
-            i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 2000px;";
+            i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 1000px;";
             console.log(i);
             return i;
         })())
