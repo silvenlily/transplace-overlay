@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @description  MLP Minimap r/Place
 // @include      https://hot-potato.reddit.com/embed*
-// @version      0.3
+// @version      0.4
 // @grant        GM.xmlHttpRequest
 // @author       Ponywka, bb010g
 // @downloadURL  https://raw.githubusercontent.com/silvenlily/transplace-overlay/main/template.user.js
