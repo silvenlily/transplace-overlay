@@ -1,12 +1,15 @@
 // ==UserScript==
 // @name         Transgender Flag Template Implementation
 // @namespace    http://tampermonkey.net/
-// @version      0.2
 // @description  try to take over the canvas!
-// @author       oralekin - script, Ender#5769 - image
-// @match        https://hot-potato.reddit.com/embed*
+// @include      https://hot-potato.reddit.com/embed*
+// @version      0.4
+// @grant        GM.xmlHttpRequest
+// @author       Ponywka - updater, bb010g - updater, oralekin - script, Ender#5769 - image
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
-// @grant        none
+// @connect      raw.githubusercontent.com
+// @connect      media.githubusercontent.com
+// @require      https://unpkg.com/uhtml@2.8.1
 // ==/UserScript==
 if (window.top !== window.self) {
     window.addEventListener('load', () => {
