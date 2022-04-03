@@ -13,7 +13,7 @@
 // @require      https://unpkg.com/uhtml@2.8.1
 // ==/UserScript==
 
-const url = "https://gist.githubusercontent.com/Cleover/1235a918e7db52831359eeee4e92bdb7/raw/userscript.user.js"
+const url = "https://github.com/silvenlily/transplace-overlay/raw/main/template.user.js"
 const _TamperRoot = this;
 (async function () {
   // Updater
