@@ -11,7 +11,6 @@
 // @updateURL    https://raw.githubusercontent.com/silvenlily/transplace-overlay/main/template.impl.user.js
 // @connect      raw.githubusercontent.com
 // @connect      media.githubusercontent.com
-// @require      https://unpkg.com/uhtml@2.8.1
 // ==/UserScript==
 if (window.top !== window.self) {
     window.addEventListener('load', () => {
