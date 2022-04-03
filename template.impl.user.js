@@ -7,6 +7,8 @@
 // @grant        GM.xmlHttpRequest
 // @author       Ponywka - updater, bb010g - updater, oralekin - script, Ender#5769 - image
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
+// @downloadURL  https://raw.githubusercontent.com/silvenlily/transplace-overlay/main/template.impl.user.js
+// @updateURL    https://raw.githubusercontent.com/silvenlily/transplace-overlay/main/template.impl.user.js
 // @connect      raw.githubusercontent.com
 // @connect      media.githubusercontent.com
 // @require      https://unpkg.com/uhtml@2.8.1
