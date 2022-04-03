@@ -1,4 +1,4 @@
-/ ==UserScript==
+// ==UserScript==
 // @name         Transgender Flag Template
 // @namespace    http://tampermonkey.net/
 // @description  MLP Minimap r/Place
