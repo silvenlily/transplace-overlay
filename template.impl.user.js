@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Transgender Flag Template
+// @name         Transgender Flag Template Implementation
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  try to take over the canvas!
