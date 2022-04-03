@@ -5,7 +5,7 @@
 // @include      https://hot-potato.reddit.com/embed*
 // @version      0.4
 // @grant        GM.xmlHttpRequest
-// @author       Ponywka, bb010g
+// @author       Ponywka - updater, bb010g - updater, oralekin - script, Ender#5769 - image
 // @downloadURL  https://raw.githubusercontent.com/silvenlily/transplace-overlay/main/template.user.js
 // @updateURL    https://raw.githubusercontent.com/silvenlily/transplace-overlay/main/template.user.js
 // @connect      raw.githubusercontent.com
