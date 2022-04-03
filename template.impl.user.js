@@ -7,6 +7,7 @@
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/silvenlily/transplace-overlay/main/template.impl.user.js
 // @updateURL    https://raw.githubusercontent.com/silvenlily/transplace-overlay/main/template.impl.user.js
 // ==/UserScript==
 
