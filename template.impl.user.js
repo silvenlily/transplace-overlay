@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Transgender Flag Template impl
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.6
 // @description  try to take over the canvas!
 // @author       oralekin - script, Ender#5769 - image
 // @match        https://hot-potato.reddit.com/embed*
