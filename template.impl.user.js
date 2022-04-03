@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @description  try to take over the canvas!
 // @include      https://hot-potato.reddit.com/embed*
-// @version      0.4
+// @version      0.5
 // @grant        GM.xmlHttpRequest
 // @author       Ponywka - updater, bb010g - updater, oralekin - script, Ender#5769 - image
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
