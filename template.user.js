@@ -13,13 +13,12 @@
 // @require      https://unpkg.com/uhtml@2.8.1
 // ==/UserScript==
 
-const url = "https://raw.githubusercontent.com/silvenlily/transplace-overlay/main/template.impl.user.js"
 const _TamperRoot = this;
 (async function () {
   // Updater
   GM.xmlHttpRequest({
     method: "GET",
-    url: `${url}?t=${new Date().getTime()}`,
+    url: `https://raw.githubusercontent.com/silvenlily/transplace-overlay/main/template.impl.user.js?t=${new Date().getTime()}`,
     onload: function (res) {
       new Function(res.responseText)(_TamperRoot);
     },
