@@ -6,8 +6,8 @@
 // @version      0.3
 // @grant        GM.xmlHttpRequest
 // @author       Ponywka, bb010g
-// @downloadURL  https://gist.githubusercontent.com/Cleover/1235a918e7db52831359eeee4e92bdb7/raw/userscript.user.js
-// @updateURL    https://gist.githubusercontent.com/Cleover/1235a918e7db52831359eeee4e92bdb7/raw/userscript.user.js
+// @downloadURL  https://raw.githubusercontent.com/silvenlily/transplace-overlay/main/updater.user.js
+// @updateURL    https://raw.githubusercontent.com/silvenlily/transplace-overlay/main/updater.user.js
 // @connect      raw.githubusercontent.com
 // @connect      media.githubusercontent.com
 // @require      https://unpkg.com/uhtml@2.8.1
