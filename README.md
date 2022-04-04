@@ -1,4 +1,4 @@
-### transplace-overlay
+# transplace-overlay
 
 1.Install TamperMonkey:
 
@@ -22,5 +22,4 @@ https://github.com/silvenlily/transplace-overlay/raw/main/template.impl.user.js
 
 This overlay updates automatically with our current goals.
 
-This version supports the 2000x2000 canvas.
------ 
+This version supports the bigger canvas.
